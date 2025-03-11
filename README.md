@@ -46,6 +46,4 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
   <br /><br />
 </div>
 
-
-
 [![](https://visitcount.itsvg.in/api?id=Mifiszon&icon=0&color=12)](https://visitcount.itsvg.in)
