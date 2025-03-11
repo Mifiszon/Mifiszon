@@ -11,7 +11,7 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
 - 🇨🇳 Explore **Chinese culture, history, and technology**  
 - 🎤 Organize and manage **tech events & hackathons**  
 
-Let’s connect and create something amazing! 🚀  
+Let’s connect and create something amazing!
 
 
 
@@ -23,8 +23,8 @@ Let’s connect and create something amazing! 🚀
 
 
 
-## 💻 Tech Stack:
-<div align="center">
+## Tech Stack:
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -44,8 +44,8 @@ Let’s connect and create something amazing! 🚀
 
 
 
-## 📊 GitHub Stats:
-<div align="center">
+## GitHub Stats:
+<div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mifiszon&theme=aura&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mifiszon&theme=aura&hide_border=false&layout=compact" alt="Top Languages" />
