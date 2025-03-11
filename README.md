@@ -13,7 +13,6 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
 
 Let’s connect and create something amazing! 🚀  
 
----
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/michalogiba/)  
@@ -21,7 +20,6 @@ Let’s connect and create something amazing! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalogiba/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michal.ogiba@gmail.com)  
 
----
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -42,7 +40,6 @@ Let’s connect and create something amazing! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
----
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -51,6 +48,5 @@ Let’s connect and create something amazing! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mifiszon&theme=aura&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
----
 
 [![](https://visitcount.itsvg.in/api?id=Mifiszon&icon=0&color=12)](https://visitcount.itsvg.in)
