@@ -42,8 +42,7 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
 
 ## My GitHub stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mifiszon&theme=aura&show_icons=true&hide_border=false&count_private=true" />
-  <br /><br />
+  ![Michał Ogiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mifiszon&show_icons=true&theme=radical)
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Mifiszon&icon=0&color=12)](https://visitcount.itsvg.in)
