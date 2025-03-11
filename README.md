@@ -36,7 +36,7 @@ Let’s connect and create something amazing! 🚀
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja-original.svg" height="30" alt="Jinja logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja2-original.svg" height="30" alt="Jinja2 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
   <img width="12" />
