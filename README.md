@@ -44,7 +44,6 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Mifiszon&theme=aura&show_icons=true&hide_border=false&count_private=true" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mifiszon&theme=aura&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 
