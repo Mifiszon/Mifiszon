@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student specializing in Information Processing**, passionate about **AI, software development, and technology trends**.  
 I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese culture**.  
--
+
 
 
 ## What I do:  
