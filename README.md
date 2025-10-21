@@ -9,7 +9,7 @@ I enjoy **coding, writing about AI & IT for Onet, gaming, and exploring Chinese 
 - 💻 Develop **web & AI-driven applications**
 - 📝 Write about **AI & IT trends** for Onet
 - 🏮 Explore **Chinese culture, history, and technology**
-- 🎤 Organize and manage **tech events & hackathons** 
+- 🎤 Organize and manage **tech events & hackathons**
 
 
 
